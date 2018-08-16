@@ -1,0 +1,31 @@
+nav {
+      background-color:lightblue;
+      list-style-type: none;
+      padding: 10px;
+    }
+
+h1{
+      color:blue;
+      text-align:center;
+  }
+  
+h2{
+      color:blue;
+      text-align:justify;
+  }
+
+p {
+      text-align:center;
+  }
+
+.Honours{
+      width:device-width;
+      height:auto;
+      background-color: red;
+      border-style: none;
+}
+
+iframe {
+      display: block;
+      margin: 0 auto;
+    }
