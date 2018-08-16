@@ -4,6 +4,10 @@ nav {
       padding: 10px;
     }
 
+body{
+  background-color:lightblue;
+  text-align:justify;
+}
 h1{
       background-color:lightblue
       color:blue;
