@@ -5,18 +5,21 @@ nav {
     }
 
 h1{
+      background-color:lightblue
       color:blue;
       text-align:center;
   }
   
 h2{
+      background-color:lightblue
       color:blue;
-      text-align:justify;
+      text-align:center;
   }
 
 p {
+      background-color:lightblue
       text-align:center;
-  }
+      margin: 400px;
 
 .Honours{
       width:device-width;
@@ -39,8 +42,3 @@ a{
 }
 
 
-div>ol{
-    color: navy;
-    font: 400 20px/1.2 'Great Vibes', Helvetica, sans-serif;
-    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
-    }
